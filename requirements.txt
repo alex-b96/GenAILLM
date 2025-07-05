@@ -1,5 +1,17 @@
---extra-index-url https://download.pytorch.org/whl/cu117
-torch==1.13.1+cu117
-torchdata==0.5.1
-transformers==4.27.2
-datasets==2.11.0
+torch
+torchdata
+transformers
+datasets
+evaluate
+rouge-score
+loralib
+peft
+# --extra-index-url https://download.pytorch.org/whl/cu117
+# torch==1.13.1+cu117
+# torchdata==0.5.1
+# transformers==4.27.2
+# datasets==2.11.0
+# evaluate==0.4.0
+# rouge-score==0.1.2
+# loralib==0.1.1
+# peft==0.3.0
